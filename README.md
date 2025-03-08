@@ -29,6 +29,11 @@ On Debian/Ubuntu systems:
 sudo apt-get install build-essential libreadline-dev
 ```
 
+On Arch Linux systems:
+```bash
+sudo pacman -S base-devel readline
+```
+
 On Red Hat/Fedora systems:
 ```bash
 sudo dnf install gcc-c++ readline-devel
