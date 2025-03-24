@@ -45,7 +45,7 @@ sudo dnf install gcc-c++ cmake readline-devel
 
 Clone the repository:
 ```bash
-git clone https://github.com/username/linux-shell.git
+git clone https://github.com/isaiah76/linux-shell.git
 cd linux-shell
 ```
 
